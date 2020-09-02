@@ -1,0 +1,38 @@
+﻿body {
+    background-color: lightblue;
+
+ 
+}
+
+h1{
+    text-align: center;
+    padding: 2%;
+    border: 2px solid black;
+}
+
+h2{
+    text-align: center;
+}
+
+.lilypad{
+    position: absolute;
+    background: url("img/lilypad.png");
+    right: 30px;
+    margin: 5%;
+    z-index: 0;
+}
+
+.frog{
+    position: absolute;
+    left: 30px;
+    margin: 5%;
+    z-index: 1;
+}
+
+h3{
+     position: absolute;
+
+     bottom: 0;
+ 
+  
+} 
